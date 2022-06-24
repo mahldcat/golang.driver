@@ -30,4 +30,6 @@ CREATE TABLE [Tasks](
 2. Add a corpus of sprocs to the DBMS to handle the CRUD ops  
 3. Wire up these calls to the sprocs as additional functions
 4. Figure out how to wire this up into an openAPI compliant REST service
+5. Unit testing...
+6. CI/CD with Github actions?
 
