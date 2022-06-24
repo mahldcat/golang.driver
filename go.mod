@@ -2,8 +2,6 @@ module driver
 
 go 1.18
 
-replace github.com/mahldcat/golang.config => C:\src\golang\src\github.com\mahldcat\golang.config
-replace github.com/mahldcat/golang.sql => C:\src\golang\src\github.com\mahldcat\golang.sql
 require (
 	github.com/mahldcat/golang.config v0.0.0-20220624052430-06176be03ccc
 	github.com/mahldcat/golang.sql v0.0.0-20220624065331-8a83854b6788
